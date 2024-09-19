@@ -1,0 +1,6 @@
+@PaymentHyperPay_HostAddress = http://localhost:5198
+
+GET {{PaymentHyperPay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
